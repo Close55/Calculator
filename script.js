@@ -1,0 +1,17 @@
+function add(a, b){
+
+}
+
+function subtract(a, b){
+
+}
+
+function multiply(a, b){
+
+}
+
+function divide(a, b){
+
+}
+
+function operate(num1, num2, operator)
